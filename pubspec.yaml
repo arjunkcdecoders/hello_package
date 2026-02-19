@@ -1,7 +1,7 @@
 name: hello_package
-description: "A new Flutter package project."
+description: A simple Flutter package that says hello 👋
 version: 0.0.1
-homepage:
+homepage: https://github.com/arjunkcdecoders/hello_package
 
 environment:
   sdk: ^3.10.7
