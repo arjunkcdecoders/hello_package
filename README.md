@@ -12,4 +12,4 @@ Add this line in your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  hello_package: ^1.0.0
+  hello_package: ^1.0.1
