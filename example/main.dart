@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hello_package/hello_package.dart';
+import 'package:hello_packagee/hello_package.dart';
 
 void main() {
   runApp(const ExampleApp());

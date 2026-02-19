@@ -1,6 +1,6 @@
 name: hello_packagee
 description: A simple Flutter package that says hello
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/arjunkcdecoders/hello_package
 
 environment:

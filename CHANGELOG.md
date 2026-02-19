@@ -6,6 +6,6 @@
 
 ### ✍️ Example
 ```markdown
-## 1.0.0
-- Initial release of hello_package
-- Added `sayHello()` method that returns a greeting
+## 1.0.1
+- Updated the greeting text in `sayHello()` method.
+
